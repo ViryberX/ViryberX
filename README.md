@@ -1,8 +1,32 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,111827,312E81,06B6D4&height=220&section=header&text=VIRYBER&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20BUILDER&descSize=18&descColor=#312E81"
+    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=VIRYBER&fontSize=65&fontColor=00BFFF&fontAlignY=42&animation=fadeIn"
     width="100%"
   />
+</p>
+
+<h3 align="center">
+  <code style="color:#00BFFF;">&lt;/&gt;</code>
+  <span>FULL-STACK DEVELOPER • SAAS BUILDER</span>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00BFFF" />
+</p>
+
+<p align="center">
+  <a href="https://viryberx.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00BFFF" />
+  </a>
+  <a href="https://github.com/viryber-hue">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
+  </a>
 </p>
 
 <p align="center">
